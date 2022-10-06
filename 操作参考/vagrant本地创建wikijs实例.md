@@ -2,7 +2,7 @@
 title: Vagrant 本地创建 WIKIJS 实例
 description: 
 published: true
-date: 2022-10-06T02:31:48.959Z
+date: 2022-10-06T02:35:08.248Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:22:34.608Z
@@ -30,7 +30,7 @@ vagrant box add --name 给box起个名字  box文件
 ```
 
 添加完成之后 可以通过 下面命令 查看添加的box 
-```bash
+```Bash
 vagrant box list
 ```
 
