@@ -2,7 +2,7 @@
 title: Vagrant 本地创建 WIKIJS 实例
 description: 
 published: true
-date: 2022-10-06T03:24:40.467Z
+date: 2022-10-06T03:29:00.287Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:22:34.608Z
@@ -18,8 +18,7 @@ dateCreated: 2022-10-06T01:22:34.608Z
 首先 拿到我们的 vagrant box 文件
 把 vagrant box 从网盘下载到本地的目录当中
 当前仅仅有适配 hyperv 虚拟机的 vagrant box 后续会适配其他虚拟机软件
-网盘地址: 
-![b920a948624f2dc9bfa44448bb27591.jpg](/images/b920a948624f2dc9bfa44448bb27591.jpg)
+网盘地址 加我微信提供 https://tmmap.lipanpanx.com 
 
 
 
