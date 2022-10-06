@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-10-06T02:15:30.815Z
+date: 2022-10-06T03:19:45.200Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:11:01.856Z
@@ -17,9 +17,9 @@ dateCreated: 2022-10-06T01:11:01.856Z
 
 
 > [中文文档](/README.md)
-> [英文文档](/en/home.md)
-> [日文文档](/ja/home.md)
-> [繁体文档](/zh-tw/home.md)
+> [英文文档](/en/README.md)
+> [日文文档](/ja/README.md)
+> [繁体文档](/zh-tw/README.md)
 
 
 项目目录
