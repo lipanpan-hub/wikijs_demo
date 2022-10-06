@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-10-06T02:00:26.410Z
+date: 2022-10-06T02:02:20.302Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:11:01.856Z
@@ -29,10 +29,11 @@ dateCreated: 2022-10-06T01:11:01.856Z
 > * [wikijs实现git仓库双向数据同步](/操作参考/wikijs实现git仓库双向数据同步.md)
 
 > markdown兼容性测试
-> [Github风格md](/Markdown兼容性测试/Github风格md.md)
+> * [Github风格md](/Markdown兼容性测试/Github风格md.md)
+
 
 > 版本发布说明
-> [当前版本](/项目版本说明/当前版本.md)
+> * [当前版本](/项目版本说明/当前版本.md)
 
 
 
