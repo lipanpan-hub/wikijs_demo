@@ -2,7 +2,7 @@
 title: Vagrant 本地创建 WIKIJS 实例
 description: 
 published: true
-date: 2022-10-06T02:30:03.728Z
+date: 2022-10-06T02:30:09.640Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:22:34.608Z
@@ -25,7 +25,7 @@ dateCreated: 2022-10-06T01:22:34.608Z
 cd C:\Users\lipanpan\Downloads
 ```
 通过 下面命令 把box添加到自己的vagrant系统当中
-```sh
+```shell
 vagrant box add --name 给box起个名字  box文件
 ```
 
