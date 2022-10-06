@@ -2,7 +2,7 @@
 title: Vagrant 本地创建 WIKIJS 实例
 description: 
 published: true
-date: 2022-10-06T02:35:08.248Z
+date: 2022-10-06T02:35:20.924Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:22:34.608Z
@@ -37,7 +37,7 @@ vagrant box list
 ## 用 vagrant box name 初始化 Vagranfile
 初始化 vagrantfile 之前 首先 新建一个文件夹 用来存放我们的项目 和 vagrantfile 
 
-```bash
+```Bash
 mkdir wikijs
 cd wikijs
 
