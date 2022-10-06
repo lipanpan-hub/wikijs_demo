@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-10-06T02:02:20.302Z
+date: 2022-10-06T02:05:18.026Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:11:01.856Z
@@ -30,6 +30,8 @@ dateCreated: 2022-10-06T01:11:01.856Z
 
 > markdown兼容性测试
 > * [Github风格md](/Markdown兼容性测试/Github风格md.md)
+> * [EditorMD风格markdown](/Markdown兼容性测试/EditorMD风格markdown.md)
+> * [Dillinger风格markdown](/Markdown兼容性测试/Dillinger风格markdown.md)
 
 
 > 版本发布说明
