@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-10-06T01:49:12.763Z
+date: 2022-10-06T02:00:25.021Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:11:01.856Z
@@ -24,9 +24,9 @@ dateCreated: 2022-10-06T01:11:01.856Z
 项目目录
 
 > 操作参考
-> [vagrant本地创建wikijs实例](/操作参考/vagrant本地创建wikijs实例.md)
-> [wikijs轻松创建多语言文档](/操作参考/wikijs轻松创建多语言文档.md)
-> [wikijs实现git仓库双向数据同步](/操作参考/wikijs实现git仓库双向数据同步.md)
+> * [vagrant本地创建wikijs实例](/操作参考/vagrant本地创建wikijs实例.md)
+> * [wikijs轻松创建多语言文档](/操作参考/wikijs轻松创建多语言文档.md)
+> * [wikijs实现git仓库双向数据同步](/操作参考/wikijs实现git仓库双向数据同步.md)
 
 > markdown兼容性测试
 > [Github风格md](/Markdown兼容性测试/Github风格md.md)
