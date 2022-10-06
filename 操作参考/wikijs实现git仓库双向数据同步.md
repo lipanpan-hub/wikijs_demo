@@ -2,7 +2,7 @@
 title: WIKIJS 实现 GIT 仓库双向数据同步
 description: 
 published: true
-date: 2022-10-06T02:53:56.017Z
+date: 2022-10-06T03:00:20.778Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T01:24:53.989Z
@@ -20,5 +20,5 @@ dateCreated: 2022-10-06T01:24:53.989Z
 
 然后就是设置 wikijs 这边, 按照方框当中的提示设置就行了 无任何难度 
 
-
+![snipaste_2022-10-06_10-59-09.png](/images/snipaste_2022-10-06_10-59-09.png)
 
