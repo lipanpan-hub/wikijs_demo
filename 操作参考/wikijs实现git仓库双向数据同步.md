@@ -2,10 +2,10 @@
 title: WIKIJS 实现 GIT 仓库双向数据同步
 description: 
 published: true
-date: 2022-10-07T01:51:49.760Z
+date: 2022-10-07T01:18:43.208Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-07T01:51:48.175Z
+dateCreated: 2022-10-06T01:24:53.989Z
 ---
 
 # WIKIJS 开启 GIT双向数据同步
