@@ -2,18 +2,18 @@
 title: README
 description: 
 published: true
-date: 2022-10-06T03:19:45.200Z
+date: 2022-10-07T01:17:24.767Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-06T01:11:01.856Z
+dateCreated: 2022-10-07T01:15:08.948Z
 ---
-
 
 # 项目介绍
 
 这是 WIKIJS 的一个 多语言文档 演示项目
 
 在这个演示中，我们通过vagrant轻松地创建一个 WIKIJS 实例，并且通过 WIKIJS 轻松地创建一个多语言的文档项目
+修改文档(192.168.31.64)
 
 
 > [中文文档](/README.md)
