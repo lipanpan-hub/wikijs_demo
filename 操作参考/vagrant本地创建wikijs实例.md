@@ -2,10 +2,10 @@
 title: Vagrant 本地创建 WIKIJS 实例
 description: 
 published: true
-date: 2022-10-06T03:30:57.331Z
+date: 2022-10-07T01:15:39.632Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-06T01:22:34.608Z
+dateCreated: 2022-10-07T01:15:37.857Z
 ---
 
 ## 0x00 前置条件

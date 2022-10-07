@@ -2,10 +2,10 @@
 title: ReleaseNote/CurrentVersion
 description: 
 published: true
-date: 2022-10-06T03:17:09.863Z
+date: 2022-10-07T01:15:51.462Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-06T03:17:09.863Z
+dateCreated: 2022-10-07T01:15:49.865Z
 ---
 
 # Header

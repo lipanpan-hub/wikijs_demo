@@ -2,10 +2,10 @@
 title: wikijs文档的HOME页面
 description: 
 published: true
-date: 2022-10-06T01:06:32.293Z
+date: 2022-10-07T01:15:13.038Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-06T01:00:42.179Z
+dateCreated: 2022-10-07T01:15:11.408Z
 ---
 
 # 简要说明
